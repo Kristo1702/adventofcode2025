@@ -21,6 +21,7 @@ def decrypt_1():
     return final_password
 
 
+
 # CHALLENGE 2
 def decrypt_2():
     with open("file_with_password.txt", "r") as file:
