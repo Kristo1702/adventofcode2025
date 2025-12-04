@@ -1,7 +1,8 @@
 https://adventofcode.com/2025/day/1
 
 
-CHALLENGE 1/2:
+__________________________________________________________________________________________
+>>> CHALLENGE 1/2:
 
 
 
@@ -27,8 +28,8 @@ You could follow the instructions, but your recent required official North Pole 
 
 
 
-
-CHALLENGE 2/2:
+__________________________________________________________________________________________
+>>> CHALLENGE 2/2:
 
 
 
