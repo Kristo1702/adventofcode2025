@@ -82,7 +82,7 @@ def solve_part_2(line):
 
 
 def execute_day_2():
-    with open("file_with_ids.txt", "r") as f:
+    with open("puzzle_input.txt", "r") as f:
         line = f.read().strip()
 
     solve_part_1(line)

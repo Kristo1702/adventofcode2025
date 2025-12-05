@@ -21,7 +21,7 @@ def best_k_digits(joltage, k):
 
 
 def fetch_k_largest_ints(k):
-    with open("battery_banks.txt", "r") as file:
+    with open("puzzle_input.txt", "r") as file:
         joltages = file.readlines()
 
     results = {}

@@ -1,5 +1,5 @@
 def load_day_4_input():
-    with open("grid.txt", "r", encoding="utf-8") as f:
+    with open("puzzle_input.txt", "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     grid = []

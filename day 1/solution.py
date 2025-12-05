@@ -1,6 +1,6 @@
 # CHALLENGE 1
 def decrypt_1():
-    with open("file_with_password.txt", "r") as file:
+    with open("puzzle_input.txt", "r") as file:
         password_connections = file.readlines()
 
     final_password = 0
@@ -24,7 +24,7 @@ def decrypt_1():
 
 # CHALLENGE 2
 def decrypt_2():
-    with open("file_with_password.txt", "r") as file:
+    with open("puzzle_input.txt", "r") as file:
         password_connections = file.readlines()
 
     final_password = 0
